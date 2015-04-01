@@ -1,0 +1,9 @@
+x_data=2
+print(x_data)
+print(type(x_data))
+x_data=2.0
+print(x_data)
+print(type(x_data))
+x_data='jeny'
+print(x_data)
+print(type(x_data))
